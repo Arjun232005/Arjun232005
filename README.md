@@ -66,7 +66,7 @@ My Role: Team Leader — Project planning, application interface development, an
 
 Status: 🚧 Ongoing — Under development.
 
-🔗 Project Repository: [PASTE YOUR TRACK AND GO REPOSITORY LINK HERE]
+🔗 Project Repository: []
 
 ---
 
@@ -88,7 +88,7 @@ Hardware: ESP32-CAM and OLED display.
 
 Status: Mini-project.
 
-🔗 Project Repository: [PASTE YOUR SMART VISION PROJECT REPOSITORY LINK HERE]
+🔗 Project Repository: []
 
 ---
 
