@@ -1,4 +1,4 @@
-Hi there 👋, I'm ARJUN  K R
+Hi there 👋, I'm ARJUN K R
 
 🎓 Final-year Electronics and Communication Engineering student at College of Engineering Trikaripur, Kerala, India.
 
@@ -24,24 +24,23 @@ I'm passionate about electronics, embedded systems, IoT, and AI-based applicatio
 
 💻 Programming Languages
 
-"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Programming" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>🔌 Electronics and Embedded Systems
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/IoT-008080?style=for-the-badge" alt="IoT" />
+</p>🧰 Tools and Platforms
 
-🔌 Electronics and Embedded Systems
-
-"ESP32" (https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-"Arduino" (https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-"IoT" (https://img.shields.io/badge/IoT-008080?style=for-the-badge)
-
-🧰 Tools and Platforms
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-Note: This list represents technologies I am learning and exploring. I will continue updating it as I gain experience.
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>Note: This list represents technologies I am learning and exploring. I will continue updating it as I gain experience.
 
 ---
 
@@ -97,7 +96,7 @@ Status: Mini-project.
 
 - ✅ Qualcomm AI Upskilling Program — Completed.
 - ✅ Introduction to Generative AI — Google Cloud.
-- ✅ Google Prompting Essentials — Google .
+- ✅ Google Prompting Essentials — Google.
 
 ---
 
@@ -122,19 +121,22 @@ Bachelor of Technology — Electronics and Communication Engineering
 
 📊 GitHub Statistics
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Arjun232005&show_icons=true&theme=default)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun232005&layout=compact&theme=default)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun232005&show_icons=true&theme=default" alt="GitHub Stats" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun232005&layout=compact&theme=default" alt="Top Languages" />
+</p>---
 
 🤝 Connect With Me
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/arjunkr232005)
-
-""GitHub" (https://img.shields.io/badge/GitHub-My_Profile-black?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/Arjun232005)
-
-📧 e-mail:arjunkr828120@gmail.com 
+<p>
+  <a href="https://www.linkedin.com/in/arjunkr232005">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Arjun232005">
+    <img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>📧 Email: "arjunkr828120@gmail.com" (mailto:arjunkr828120@gmail.com)
 
 ---
 
