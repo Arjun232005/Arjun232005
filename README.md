@@ -40,7 +40,15 @@ I'm passionate about electronics, embedded systems, IoT, and AI-based applicatio
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>Note: This list represents technologies I am learning and exploring. I will continue updating it as I gain experience.
+</p>🤖 AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud AI" />
+</p>Exploring AI tools for learning, programming assistance, problem-solving, and application development.
+
+Note: This list represents technologies I am learning and exploring. I will continue updating it as I gain experience.
 
 ---
 
@@ -66,7 +74,7 @@ My Role: Team Leader — Project planning, application interface development, an
 
 Status: 🚧 Ongoing — Under development.
 
-🔗 Project Repository: []
+🔗 Project Repository: [PASTE YOUR TRACK AND GO REPOSITORY LINK HERE]
 
 ---
 
@@ -88,7 +96,7 @@ Hardware: ESP32-CAM and OLED display.
 
 Status: Mini-project.
 
-🔗 Project Repository: []
+🔗 Project Repository: [PASTE YOUR SMART VISION PROJECT REPOSITORY LINK HERE]
 
 ---
 
